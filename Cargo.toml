@@ -1,0 +1,12 @@
+[package]
+name = "zk-one-time-secret"
+version = "0.0.0"
+edition = "2021"
+description = "zk-SNARK based one-time-secret service"
+authors = [
+    "cyphersnake <cyphersnake@pm.me>"
+]
+repository = "https://github.com/cyphersnake/zk_one_time_secret"
+license = "MIT"
+
+[dependencies]
